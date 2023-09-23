@@ -1,0 +1,13 @@
+monai
+segmentation-models-pytorch==0.2.1
+pylibjpeg
+python-gdcm
+opencv-python
+timm
+pydicom
+pandas
+numpy
+albumentations
+matplotlib
+scikit-learn
+nibabel
